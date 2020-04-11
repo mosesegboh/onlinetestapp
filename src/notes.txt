@@ -1,0 +1,3 @@
+you might get an undefined error vue.js tutorial by freecodecamp  1.08
+-this could happen at the brief instance when the component is mounting ,
+-you can add a mounted hook and trouble shoot
